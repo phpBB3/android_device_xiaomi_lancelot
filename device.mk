@@ -99,3 +99,7 @@ PRODUCT_PACKAGES += \
 # RcsService
 PRODUCT_PACKAGES += \
     RcsService
+
+# ImsInit hack
+PRODUCT_PACKAGES += \
+    ImsInit
