@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/aosp_lancelot.mk
+   $(LOCAL_DIR)/aicp_lancelot.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lancelot-user \
-    aosp_lancelot-userdebug \
-    aosp_lancelot-eng
+    aicp_lancelot-user \
+    aicp_lancelot-userdebug \
+    aicp_lancelot-eng
