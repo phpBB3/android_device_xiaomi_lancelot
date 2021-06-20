@@ -608,7 +608,7 @@
     <integer name="config_deviceHardwareWakeKeys">64</integer>
     <bool name="config_liveDisplayAvailable">true</bool>
     <bool name="config_haveHigherAspectRatioScreen">true</bool>
-    <item name="config_screenAspectRatio" format="float" type="dimen">2.16</item>
+    <item name="config_screenAspectRatio" format="float" type="dimen">2.2</item>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_dozeAlwaysOnEnabled">false</bool>
     <integer name="config_overrideHasPermanentMenuKey">2</integer>
